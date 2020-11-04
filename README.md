@@ -9,4 +9,4 @@ Currently we are at the initial stage of this. So just create an issue regarding
 To be able to track/prioritize and schedule each feature request, We humbly request you to submit each feature as a separate issue. You can submit as many features as you have but no more(hehe). Just attempt to read the currently available ones to avoid requesting duplicate features
 
 ## Further Discussions
-Many are being discussed in our ![telegram](https://t.me/tanzaniadeveloperscommunity) group. Feel free to join
+Many are being discussed in our [telegram](https://t.me/tanzaniadeveloperscommunity) group. Feel free to join
