@@ -19,4 +19,4 @@ Many are being discussed in our [telegram](https://t.me/tanzaniadeveloperscommun
 
 ## License
 
-MIT
+GNU GPLv3
